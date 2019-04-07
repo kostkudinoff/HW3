@@ -8,3 +8,7 @@ Part 1 Antconc
 ![](clusters3.jpg)
 ![](collocates1.jpg)
 Part 2 Google N-grams and Russian Corpus
+![](ngram1.jpg)
+![](corpus1.jpg)
+![](ngram2.jpg)
+![](corpus2.jpg)
